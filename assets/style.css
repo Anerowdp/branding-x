@@ -33,7 +33,7 @@ span{
     height: 121px;
 }
 .logo{
-    background: url(/img/logo.png) ;
+    background: url(../img/logo.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 247px;
@@ -61,7 +61,7 @@ h1{
 }
 
 .block_main_image{
-    background: url(/img/main_image.png) ;
+    background: url(../img/main_image.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 590px;
@@ -161,7 +161,7 @@ h1{
     margin: 0 0 101px 0;
    }
    .item1_img{
-    background: url(/img/item1.png) ;
+    background: url(../img/item1.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 84px;
@@ -169,7 +169,7 @@ h1{
     margin-bottom: 23px;
    }
    .item2_img{
-    background: url(/img/item2.png) ;
+    background: url(../img/item2.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 84px;
@@ -177,7 +177,7 @@ h1{
     margin-bottom: 23px;
    }
    .item3_img{
-    background: url(/img/item3.png) ;
+    background: url(../img/item3.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 84px;
@@ -185,7 +185,7 @@ h1{
     margin-bottom: 23px;
    }
    .item4_img{
-    background: url(/img/item4.png) ;
+    background: url(../img/item4.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 84px;
@@ -193,7 +193,7 @@ h1{
     margin-bottom: 23px;
    }
    .item5_img{
-    background: url(/img/item5.png) ;
+    background: url(../img/item5.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 84px;
@@ -201,7 +201,7 @@ h1{
     margin-bottom: 23px;
    }
    .item6_img{
-    background: url(/img/item6.png) ;
+    background: url(../img/item6.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 84px;
@@ -229,7 +229,7 @@ h1{
     max-width: 418px;
 }
    .img_aboutUS{
-    background: url(/img/aboutUS.png) ;
+    background: url(../img/aboutUS.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 100%;
@@ -273,7 +273,7 @@ h1{
     
 }
 .block_alt_image{
-    background: url(/img/contact\ us.png) ;
+    background: url(../img/contact\ us.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 662px;
@@ -322,7 +322,7 @@ h1{
     height: 100%;
 }
 .block_items_alt_contactUs_alt_services_item .item1_img{
-    background: url(/img/item7.png) ;
+    background: url(../img/item7.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 65px;
@@ -330,7 +330,7 @@ h1{
     margin-bottom: 23px;
    }
    .block_items_alt_contactUs_alt_services_item .item2_img{
-    background: url(/img/item8.png) ;
+    background: url(../img/item8.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 65px;
@@ -338,7 +338,7 @@ h1{
     margin-bottom: 23px;
    }
    .block_items_alt_contactUs_alt_services_item .item3_img{
-    background: url(/img/item9.png) ;
+    background: url(../img/item9.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 65px;
@@ -355,7 +355,7 @@ h1{
     
    }
 .block_resources_image1{
-    background: url(/img/item10.png);
+    background: url(../img/item10.png);
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 388px;
@@ -363,7 +363,7 @@ h1{
     margin-right: 28px;
 }
 .block_resources_image2{
-    background: url(/img/item11.png);
+    background: url(../img/item11.png);
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 388px;
@@ -371,7 +371,7 @@ h1{
     margin-right: 28px;
 }
 .block_resources_image3{
-    background: url(/img/item12.png);
+    background: url(../img/item12.png);
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 388px;
@@ -424,7 +424,7 @@ margin-bottom: 19px;
     justify-content: space-around;
 }
 .foot_logo{
-    background: url(/img/logo.png) ;
+    background: url(../img/logo.png) ;
     background-repeat: no-repeat; 
     background-size: 100%;
     width: 247px;
